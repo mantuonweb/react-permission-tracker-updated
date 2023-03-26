@@ -250,7 +250,6 @@ export default function PermissionGrid(props) {
                       xs={gridTitleColSpan}
                       style={{
                         ...permissionTitleCellStyle,
-                        display: expendedMap[category] ? 'initial' : 'none',
                       }}
                     >
                       {permission?.action}
@@ -261,7 +260,6 @@ export default function PermissionGrid(props) {
                         xs={item.colSpan}
                         style={{
                           ...item?.style,
-                          display: expendedMap[category] ? 'initial' : 'none',
                         }}
                       >
                         <ChildPermissionControl

@@ -6,7 +6,7 @@ export const data = [
     role: 'Account Manager',
     roleKey: 'ACCOUNT_MANAGER',
     permissions: {
-      VIEW : [
+      VIEW: [
         {
           action: 'View Client Listing - All Clients',
           actionKey: 'VIEW_CLIENT_LISTING_ALL',
@@ -72,9 +72,9 @@ export const data = [
           actionKey: 'VIEW_POSITIONS',
           actionCategory: 'VIEW',
           value: true,
-        }
+        },
       ],
-      ADD:[
+      ADD: [
         {
           action: 'Add Client Details - Clients + Jobs',
           actionKey: 'ADD_CLIENT_DETAILS',
@@ -128,9 +128,9 @@ export const data = [
           actionKey: 'ADD_POSITIONS',
           actionCategory: 'ADD',
           value: true,
-        }
+        },
       ],
-      EDIT:[
+      EDIT: [
         {
           action: 'Edit Client Details',
           actionKey: 'EDIT_CLIENT_DETAILS',
@@ -184,9 +184,9 @@ export const data = [
           actionKey: 'EDIT_POSITIONS',
           actionCategory: 'EDIT',
           value: true,
-        }
+        },
       ],
-      DELETE:[
+      DELETE: [
         {
           action: 'Delete Client Details',
           actionKey: 'DELETE_CLIENT_DETAILS',
@@ -240,7 +240,7 @@ export const data = [
           actionKey: 'DELETE_POSITIONS',
           actionCategory: 'DELETE',
           value: true,
-        }
+        },
       ],
     },
   },
@@ -251,7 +251,7 @@ export const data = [
     role: 'Head',
     roleKey: 'HEAD',
     permissions: {
-      VIEW : [
+      VIEW: [
         {
           action: 'View Client Listing - All Clients',
           actionKey: 'VIEW_CLIENT_LISTING_ALL',
@@ -317,9 +317,9 @@ export const data = [
           actionKey: 'VIEW_POSITIONS',
           actionCategory: 'VIEW',
           value: true,
-        }
+        },
       ],
-      ADD:[
+      ADD: [
         {
           action: 'Add Client Details - Clients + Jobs',
           actionKey: 'ADD_CLIENT_DETAILS',
@@ -373,9 +373,9 @@ export const data = [
           actionKey: 'ADD_POSITIONS',
           actionCategory: 'ADD',
           value: true,
-        }
+        },
       ],
-      EDIT:[
+      EDIT: [
         {
           action: 'Edit Client Details',
           actionKey: 'EDIT_CLIENT_DETAILS',
@@ -429,9 +429,9 @@ export const data = [
           actionKey: 'EDIT_POSITIONS',
           actionCategory: 'EDIT',
           value: true,
-        }
+        },
       ],
-      DELETE:[
+      DELETE: [
         {
           action: 'Delete Client Details',
           actionKey: 'DELETE_CLIENT_DETAILS',
@@ -485,7 +485,7 @@ export const data = [
           actionKey: 'DELETE_POSITIONS',
           actionCategory: 'DELETE',
           value: true,
-        }
+        },
       ],
     },
   },
@@ -496,7 +496,7 @@ export const data = [
     role: 'Lead',
     roleKey: 'LEAD',
     permissions: {
-      VIEW : [
+      VIEW: [
         {
           action: 'View Client Listing - All Clients',
           actionKey: 'VIEW_CLIENT_LISTING_ALL',
@@ -562,9 +562,9 @@ export const data = [
           actionKey: 'VIEW_POSITIONS',
           actionCategory: 'VIEW',
           value: true,
-        }
+        },
       ],
-      ADD:[
+      ADD: [
         {
           action: 'Add Client Details - Clients + Jobs',
           actionKey: 'ADD_CLIENT_DETAILS',
@@ -618,9 +618,9 @@ export const data = [
           actionKey: 'ADD_POSITIONS',
           actionCategory: 'ADD',
           value: true,
-        }
+        },
       ],
-      EDIT:[
+      EDIT: [
         {
           action: 'Edit Client Details',
           actionKey: 'EDIT_CLIENT_DETAILS',
@@ -674,9 +674,9 @@ export const data = [
           actionKey: 'EDIT_POSITIONS',
           actionCategory: 'EDIT',
           value: true,
-        }
+        },
       ],
-      DELETE:[
+      DELETE: [
         {
           action: 'Delete Client Details',
           actionKey: 'DELETE_CLIENT_DETAILS',
@@ -730,9 +730,9 @@ export const data = [
           actionKey: 'DELETE_POSITIONS',
           actionCategory: 'DELETE',
           value: true,
-        }
+        },
       ],
-    },,
+    },
   },
   {
     workspaceId: null,
@@ -741,7 +741,7 @@ export const data = [
     role: 'User',
     roleKey: 'USER',
     permissions: {
-      VIEW : [
+      VIEW: [
         {
           action: 'View Client Listing - All Clients',
           actionKey: 'VIEW_CLIENT_LISTING_ALL',
@@ -807,9 +807,9 @@ export const data = [
           actionKey: 'VIEW_POSITIONS',
           actionCategory: 'VIEW',
           value: true,
-        }
+        },
       ],
-      ADD:[
+      ADD: [
         {
           action: 'Add Client Details - Clients + Jobs',
           actionKey: 'ADD_CLIENT_DETAILS',
@@ -863,9 +863,9 @@ export const data = [
           actionKey: 'ADD_POSITIONS',
           actionCategory: 'ADD',
           value: true,
-        }
+        },
       ],
-      EDIT:[
+      EDIT: [
         {
           action: 'Edit Client Details',
           actionKey: 'EDIT_CLIENT_DETAILS',
@@ -919,9 +919,9 @@ export const data = [
           actionKey: 'EDIT_POSITIONS',
           actionCategory: 'EDIT',
           value: true,
-        }
+        },
       ],
-      DELETE:[
+      DELETE: [
         {
           action: 'Delete Client Details',
           actionKey: 'DELETE_CLIENT_DETAILS',
@@ -975,7 +975,7 @@ export const data = [
           actionKey: 'DELETE_POSITIONS',
           actionCategory: 'DELETE',
           value: true,
-        }
+        },
       ],
     },
   },
@@ -986,7 +986,7 @@ export const data = [
     role: 'Analyst',
     roleKey: 'ANALYST',
     permissions: {
-      VIEW : [
+      VIEW: [
         {
           action: 'View Client Listing - All Clients',
           actionKey: 'VIEW_CLIENT_LISTING_ALL',
@@ -1052,9 +1052,9 @@ export const data = [
           actionKey: 'VIEW_POSITIONS',
           actionCategory: 'VIEW',
           value: true,
-        }
+        },
       ],
-      ADD:[
+      ADD: [
         {
           action: 'Add Client Details - Clients + Jobs',
           actionKey: 'ADD_CLIENT_DETAILS',
@@ -1108,9 +1108,9 @@ export const data = [
           actionKey: 'ADD_POSITIONS',
           actionCategory: 'ADD',
           value: true,
-        }
+        },
       ],
-      EDIT:[
+      EDIT: [
         {
           action: 'Edit Client Details',
           actionKey: 'EDIT_CLIENT_DETAILS',
@@ -1164,9 +1164,9 @@ export const data = [
           actionKey: 'EDIT_POSITIONS',
           actionCategory: 'EDIT',
           value: true,
-        }
+        },
       ],
-      DELETE:[
+      DELETE: [
         {
           action: 'Delete Client Details',
           actionKey: 'DELETE_CLIENT_DETAILS',
@@ -1220,7 +1220,7 @@ export const data = [
           actionKey: 'DELETE_POSITIONS',
           actionCategory: 'DELETE',
           value: true,
-        }
+        },
       ],
     },
   },
@@ -1231,7 +1231,7 @@ export const data = [
     role: 'Admin',
     roleKey: 'ADMIN',
     permissions: {
-      VIEW : [
+      VIEW: [
         {
           action: 'View Client Listing - All Clients',
           actionKey: 'VIEW_CLIENT_LISTING_ALL',
@@ -1297,9 +1297,9 @@ export const data = [
           actionKey: 'VIEW_POSITIONS',
           actionCategory: 'VIEW',
           value: true,
-        }
+        },
       ],
-      ADD:[
+      ADD: [
         {
           action: 'Add Client Details - Clients + Jobs',
           actionKey: 'ADD_CLIENT_DETAILS',
@@ -1353,9 +1353,9 @@ export const data = [
           actionKey: 'ADD_POSITIONS',
           actionCategory: 'ADD',
           value: true,
-        }
+        },
       ],
-      EDIT:[
+      EDIT: [
         {
           action: 'Edit Client Details',
           actionKey: 'EDIT_CLIENT_DETAILS',
@@ -1409,9 +1409,9 @@ export const data = [
           actionKey: 'EDIT_POSITIONS',
           actionCategory: 'EDIT',
           value: true,
-        }
+        },
       ],
-      DELETE:[
+      DELETE: [
         {
           action: 'Delete Client Details',
           actionKey: 'DELETE_CLIENT_DETAILS',
@@ -1465,7 +1465,7 @@ export const data = [
           actionKey: 'DELETE_POSITIONS',
           actionCategory: 'DELETE',
           value: true,
-        }
+        },
       ],
     },
   },
